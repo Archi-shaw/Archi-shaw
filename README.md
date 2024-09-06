@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Archi</h1>
+<p> <h1 align="center">Hi 👋, I'm Archi</h1>
 <h3 align="center">A passionate Web developer </h3>
 <img align="center" alt="coding" width="240" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">
-
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archi-shaw&label=Profile%20views&color=0e75b6&style=flat" alt="archi-shaw" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archi-shaw" alt="archi-shaw" /></a> </p>
