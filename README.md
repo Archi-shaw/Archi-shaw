@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Archi</h1>
 <h3 align="center">A passionate Web developer </h3>
-<img style="position: relative; left:1260px; top:100px;" alt="coding" width="240" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">
+<img align="middle" alt="coding" width="240" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archi-shaw&label=Profile%20views&color=0e75b6&style=flat" alt="archi-shaw" /> </p>
 
