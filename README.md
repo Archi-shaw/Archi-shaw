@@ -1,4 +1,5 @@
-<p> <h1 align="center">Hi 👋, I'm Archi</h1>
+<p>
+<h1 align="center">Hi 👋, I'm Archi</h1>
 <h3 align="center">A passionate Web developer </h3>
 <img align="center" alt="coding" width="240" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">
 </p>
