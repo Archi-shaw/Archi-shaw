@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Archi</h1>
 <h3 align="center">A passionate Web developer </h3>
-<img align="right" alt="coding" width="500" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fanime-girl-computer-gifs&psig=AOvVaw1JE1000TDPTtLdA3EPDReh&ust=1725702936576000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjkh7KHrogDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="500" src="https://media.tenor.com/w3APLkMuTX0AAAAM/computer-work.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archi-shaw&label=Profile%20views&color=0e75b6&style=flat" alt="archi-shaw" /> </p>
 
