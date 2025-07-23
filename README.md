@@ -40,7 +40,7 @@ const Archi = {
 </p>
 
 
-### 🔥 Areas I’m exploring
+### 🌱 Areas I’m Exploring
 
 - Clean, scalable web architecture  
 - DevOps workflows: Docker, GitHub Actions  
@@ -67,15 +67,24 @@ const Archi = {
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Archi-shaw&theme=rose_pine&hide_border=true" />
 </p>
 
------
+###
+
+
 
 ### 🤝 Let’s Connect
 
 💡 Got an exciting idea, building something impactful, or just want to team up?  
 🚀 I'm always open to internships, collaborations, or dev chats.  
 📬 Don’t hesitate to reach out — I usually respond within 24–48 hours 😊
+
 💌 Email: **archishaw622@gmail.com**  
-💼 LinkedIn: [archi-shaw](https://linkedin.com/in/archi-shaw-279a34277) - happy to create meaning impact together!
+💼 LinkedIn: [Archi Shaw](https://linkedin.com/in/archi-shaw-279a34277) — happy to create meaningful impact together!
+
+###
+
+
+
+
 
 
 <p align="center"><b>“Ship with clarity. Build with conviction.”</b></p>
