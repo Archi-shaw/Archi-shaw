@@ -69,6 +69,17 @@ const Archi = {
 
 
 
+### 🤝 Let’s Connect
+
+
+💡 Got an exciting idea, working on something meaningful, or just want to build together?  
+🚀 I'm always open to internships, collaborations, or dev chats.  
+📬 Don't hesitate to say hi — I usually reply within a day or two 😊
+
+### 📬 Reach Out Anytime
+
+💌 Email me at: **archishaw622@gmail.com**  
+💼 Or connect on [LinkedIn](https://linkedin.com/in/archi-shaw-279a34277) — happy to chat!
 
 
 
