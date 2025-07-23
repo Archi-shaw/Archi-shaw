@@ -38,7 +38,7 @@ const Archi = {
 ### 🔥 Tech Stack I Slay
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,django,tailwind,figma,vercel,docker,git,github,linux,vscode,cpp,java,githubactions" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgres,python,django,tailwind,figma,vercel,docker,git,github,linux,vscode,bootstrap,cpp,java,githubactions" />
 </p>
 
 
