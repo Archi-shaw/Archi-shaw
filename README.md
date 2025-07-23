@@ -25,9 +25,9 @@ My name is Archi Shaw, a developer building software with intent and precision. 
 
 ```js
 const Archi = {
-  role: "Full-Stack Developer",
+  role: "Developer",
   traits: ["Bold", "Creative", "Community-Driven"],
-  loves: ["Open Source", "Frontend Magic", "Empowering Women in Tech"],
+  loves: ["Open Source", "Frontend Magic", "Creating a strong impact"],
   currentFocus: ["Docker", "System Design", "Scaling Backends"],
 };
 ````
