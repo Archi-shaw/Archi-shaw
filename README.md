@@ -7,9 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF7ECB&center=true&vCenter=true&width=500&lines=💻+Crafting+Code+with+Confidence;🌸+Leading+with+Style+%26+Substance;🚀+Purposeful+execution+and+shipping" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Archi-shaw&style=for-the-badge&color=f368e0" alt="Profile Views" />
-</p>
 
 <p align="center">
     <a href="https://www.linkedin.com/in/archi-shaw-279a34277/"><img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn" /></a>
@@ -17,6 +14,11 @@
   <a href="https://leetcode.com/u/sortsiren/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" title="LeetCode" /></a>
     <a href="mailto:archishaw622@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" title="Gmail" /></a>
 </p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Archi-shaw&style=for-the-badge&color=f368e0" alt="Profile Views" />
+</p>
+
 
 
 
