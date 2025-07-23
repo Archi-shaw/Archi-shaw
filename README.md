@@ -67,20 +67,15 @@ const Archi = {
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Archi-shaw&theme=rose_pine&hide_border=true" />
 </p>
 
-
+-----
 
 ### 🤝 Let’s Connect
 
-
-💡 Got an exciting idea, working on something meaningful, or just want to build together?  
+💡 Got an exciting idea, building something impactful, or just want to team up?  
 🚀 I'm always open to internships, collaborations, or dev chats.  
-📬 Don't hesitate to say hi — I usually reply within a day or two 😊
-
-### 📬 Reach Out Anytime
-
-💌 Email me at: **archishaw622@gmail.com**  
-💼 Or connect on [LinkedIn](https://linkedin.com/in/archi-shaw-279a34277) — happy to chat!
-
+📬 Don’t hesitate to reach out — I usually respond within 24–48 hours 😊
+💌 Email: **archishaw622@gmail.com**  
+💼 LinkedIn: [archi-shaw](https://linkedin.com/in/archi-shaw-279a34277) - happy to create meaning impact together!
 
 
 <p align="center"><b>“Ship with clarity. Build with conviction.”</b></p>
